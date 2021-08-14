@@ -30,7 +30,7 @@
 ![Rollup](https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=fff)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=fff)
 ![ESlint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint)
-![Docker](https://img.shields.io/badge/-Dcoker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 

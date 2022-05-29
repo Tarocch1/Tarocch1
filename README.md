@@ -1,9 +1,8 @@
-# 𝗛𝗶 👋, 𝗜'𝗺 𝗧𝗮𝗿𝗼𝗰𝗰𝗵𝟭</h1>
+# 𝗛𝗶 👋, 𝗜'𝗺 𝗧𝗮𝗿𝗼𝗰𝗰𝗵𝟭
 
-[![](https://img.shields.io/badge/-huiben.fang@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=fff)](mailto:huiben.fang@gmail.com)
 [![](https://img.shields.io/badge/-%40Tarocch1-181717?style=flat-square&logo=github)](https://github.com/Tarocch1)
 [![](https://img.shields.io/badge/-%40Tarocch1-26A5E4?style=flat-square&logo=telegram)](https://t.me/tarocch1)
-[![](https://img.shields.io/badge/-%40Tarocch1-0084FF?style=flat-square&logo=zhihu&logoColor=fff)](https://www.zhihu.com/people/Tarocch1)
+[![](https://img.shields.io/badge/-huiben.fang@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=fff)](mailto:huiben.fang@gmail.com)
 [![](https://img.shields.io/website?style=flat-square&up_message=tarocch1.com&url=https%3A%2F%2Fwww.tarocch1.com)](https://www.tarocch1.com)
 ![](https://komarev.com/ghpvc/?username=tarocch1&style=flat-square)
 
